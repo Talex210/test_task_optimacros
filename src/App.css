@@ -8,10 +8,6 @@
     grid-gap: 10px;
 }
 
-.list-elements {
-    grid-area: l;
-}
-
 .additional-information {
     grid-area: a;
 }
