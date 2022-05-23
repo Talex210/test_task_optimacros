@@ -1,0 +1,23 @@
+.app-wrapper {
+    display: grid;
+    grid-template-areas:
+    'l a'
+    'b b';
+    grid-template-rows: 10fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+}
+
+.list-elements {
+    grid-area: l;
+}
+
+.additional-information {
+    grid-area: a;
+}
+
+.buttons {
+    grid-area: b;
+    justify-self: end;
+    margin: 10px 10px 10px 10px;
+}
