@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2aa40804-2125-48ff-be53-c8d486896b78" name="Changes" comment="подготовка приложения к получению данных">
+    <list default="true" id="2aa40804-2125-48ff-be53-c8d486896b78" name="Changes" comment="Добавляю gh-pages и небольшие изменения в приложение">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/ListElements.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ListElements.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/ListElements.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ListElements.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/ListElementsContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ListElementsContainer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Redux/ListElementsReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/ListElementsReducer.js" afterDir="false" />
     </list>
@@ -36,6 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/React/test_task_optimacros",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,16 +42,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="run" type="js.build_tools.npm" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +50,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653295048146</updated>
-      <workItem from="1653295053193" duration="14405000" />
+      <workItem from="1653295053193" duration="15056000" />
+      <workItem from="1653323058961" duration="7703000" />
     </task>
     <task id="LOCAL-00001" summary="Сверстал макет">
       <created>1653299789165</created>
@@ -79,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653313253632</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Добавляю gh-pages и небольшие изменения в приложение">
+      <created>1653322597551</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653322597551</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +94,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Сверстал макет" />
     <MESSAGE value="подготовка приложения к получению данных" />
-    <option name="LAST_COMMIT_MESSAGE" value="подготовка приложения к получению данных" />
+    <MESSAGE value="Добавляю gh-pages и небольшие изменения в приложение" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавляю gh-pages и небольшие изменения в приложение" />
   </component>
 </project>

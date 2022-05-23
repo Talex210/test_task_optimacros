@@ -4,9 +4,11 @@ import style from './ListElements.module.css';
 const ListElements = (props) => {
     return (
         <div className={style.list_elements}>
-            {/*<p>{props.entityLabelPages[0].label}</p>
-            <p>{props.entityLabelPages[0].id}</p>
-            <p>{props.entityLabelPages[0].more}</p>*/}
+            {props.entityLabelPages.map((e, i) =>
+            <div key={e.id}>
+                {i + 1}. {e.label}_{e.more}
+            </div>
+            )}
         </div>
     )
 }
