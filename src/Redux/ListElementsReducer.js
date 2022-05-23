@@ -2,7 +2,7 @@ const SET_ENTITY_LABEL_PAGES = 'SET_ENTITY_LABEL_PAGES'
 
 let initialState = {
     entityLabelPages: [
-        {label: 'first', id: 1, more: 'hi'}
+        // {label: 'first', id: 1, more: 'hi'}
     ]
 }
 

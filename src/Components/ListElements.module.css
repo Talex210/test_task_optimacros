@@ -1,3 +1,4 @@
 .list_elements {
     grid-area: l;
+    border: 5px solid black;
 }

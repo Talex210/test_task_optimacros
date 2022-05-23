@@ -10,6 +10,7 @@
 
 .additional-information {
     grid-area: a;
+    border: 5px solid black;
 }
 
 .buttons {

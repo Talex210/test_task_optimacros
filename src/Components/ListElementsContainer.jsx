@@ -5,6 +5,11 @@ import {connect} from 'react-redux';
 import {setLabelPages} from '../Redux/ListElementsReducer';
 
 class ListElementsContainer extends React.Component {
+
+    componentDidMount() {
+
+    }
+
     render() {
         return (
             <ListElements
